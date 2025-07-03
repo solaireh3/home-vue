@@ -22,6 +22,12 @@
   {
     "name": "MiniChat",
     "url": "https://t.me/ilancet",
-    "icon": "fa-sharp fa-regular fa-comment-captions"
+    "icon": "fa-comment-captions"
+  },
+  {
+    "name": "FileCodeBox",
+    "url": "https://file.xxxh.de",
+    "icon": "fa-solid fa-file-code"
   }
+
 ]
