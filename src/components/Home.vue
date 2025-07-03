@@ -67,11 +67,8 @@ const userName = ref(import.meta.env.VITE_APP_USER_NAME);
 const descriptionElement = ref(null);
 
 const predefinedDescriptions = [
-  "你好鸭，欢迎来到我的主页！！",
-  "随时可以联系我，期待与你交流。",
-  "愿你历尽千帆，归来仍是少年。",
-  "梦想还是要有的，万一实现了呢？",
-  "I hope you have a happy day every day."
+  "与其感慨路难行，不如马上出发。",
+  "Better to run than curse the road."
 ];
 
 let typedInstance = null;
