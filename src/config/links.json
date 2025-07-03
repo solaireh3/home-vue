@@ -2,25 +2,25 @@
   {
     "type": "Email",
     "icon": "fas fa-envelope",
-    "url": "mailto:i@ruom.top",
+    "url": "mailto:supremehewhyplain@gmail.com",
     "hoverColor": "#e78b0a"
   },
   {
     "type": "Github",
     "icon": "fab fa-github",
-    "url": "https://github.com/JLinmr",
+    "url": "https://github.com/solaireh3",
     "hoverColor": "#6500fc"
   },
   {
-    "type": "支付宝",
-    "icon": "fab fa-alipay",
-    "qrCode": "https://lib.bsgun.cn/Hexo-static/img/zfbzf.avif",
+    "type": "Steam",
+    "icon": "fab fa-steam",
+    "qrCode": "https://steamcommunity.com/id/whyplain/",
     "hoverColor": "#007aff"
   },
   {
-    "type": "微信",
-    "icon": "fab fa-weixin",
-    "qrCode": "https://lib.bsgun.cn/Hexo-static/img/wxzf.avif",
+    "type": "NodeSeek",
+    "icon": "https://xxxh.de/upload/NodeSeek.png",
+    "qrCode": "https://www.nodeseek.com/space/13255#/general",
     "hoverColor": "#247700"
   }
 ]
