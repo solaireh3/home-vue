@@ -2,12 +2,7 @@
   {
     "name": "博客",
     "url": "https://xxxh.de",
-    "icon": "iconfont icon-blog"
-  },
-  {
-    "name": "邮箱",
-    "url": "mailto:supremehewhyplain@gmail.com",
-    "icon": "iconfont icon-mail"
+    "icon": "fa fa-blog"
   },
   {
     "name": "图床",
@@ -15,9 +10,9 @@
     "icon": "fa fa-image"
   },
   {
-    "name": "Steam",
-    "url": "https://steamcommunity.com/id/whyplain/",
-    "icon": "fa fa-steam"
+    "name": "计算器",
+    "url": "https://jsq.xxxh.de",
+    "icon": "fa-solid fa-calculator"
   },
   {
     "name": "监测",
@@ -25,8 +20,8 @@
     "icon": "fa fa-chart-line"
   },
   {
-    "name": "Telegram",
+    "name": "MiniChat",
     "url": "https://t.me/ilancet",
-    "icon": "fa fa-telegram"
+    "icon": "fa-sharp fa-regular fa-comment-captions"
   }
 ]
