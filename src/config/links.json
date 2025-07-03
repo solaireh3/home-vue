@@ -7,7 +7,7 @@
   },
   {
     "type": "Telegram",
-    "icon": "fas fa-envelope",
+    "icon": "fa-regular fa-comment-dots",
     "url": "https://t.me/ilancet",
     "hoverColor": "#e78b0a"
   },
@@ -22,12 +22,5 @@
     "icon": "fa-brands fa-steam",
     "qrCode": "https://steamcommunity.com/id/whyplain/",
     "hoverColor": "#007aff"
-  },
-  {
-    "type": "NodeSeek",
-    "icon": "https://xxxh.de/upload/NodeSeek.png",
-    "qrCode": "fa-sharp fa-regular fa-share-nodes",
-    "hoverColor": "#247700"
   }
-
 ]
