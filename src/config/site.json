@@ -1,32 +1,32 @@
 [
   {
     "name": "博客",
-    "url": "https://blog.bsgun.cn",
+    "url": "https://xxxh.de",
     "icon": "fa fa-blog"
   },
   {
-    "name": "雨云",
-    "url": "https://www.rainyun.com/Lin_",
-    "icon": "fa fa-cloud "
+    "name": "邮箱",
+    "url": "mailto:supremehewhyplain@gmail.com",
+    "icon": "fa fa-mail "
   },
   {
     "name": "图床",
-    "url": "https://dev.ruom.top",
+    "url": "https://img.xxxh.de",
     "icon": "fa fa-image"
   },
   {
-    "name": "封面",
-    "url": "https://cover.ruom.top",
-    "icon": "fa fa-panorama"
+    "name": "Steam",
+    "url": "https://steamcommunity.com/id/whyplain/",
+    "icon": "fa fa-steam"
   },
   {
     "name": "监测",
-    "url": "https://status.bsgun.cn",
+    "url": "https://status.xxxh.de",
     "icon": "fa fa-chart-line"
   },
   {
-    "name": "图标",
-    "url": "https://icon.ruom.top/",
-    "icon": "fa fa-icons"
+    "name": "Telegram",
+    "url": "https://t.me/ilancet",
+    "icon": "fa fa-telegram"
   }
 ]
