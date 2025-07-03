@@ -13,14 +13,14 @@
   },
   {
     "type": "Steam",
-    "icon": "fab fa-steam",
+    "icon": "fa-brands fa-steam",
     "qrCode": "https://steamcommunity.com/id/whyplain/",
     "hoverColor": "#007aff"
   },
   {
     "type": "NodeSeek",
     "icon": "https://xxxh.de/upload/NodeSeek.png",
-    "qrCode": "https://www.nodeseek.com/space/13255#/general",
+    "qrCode": "fa-sharp fa-regular fa-share-nodes",
     "hoverColor": "#247700"
   }
 ]
