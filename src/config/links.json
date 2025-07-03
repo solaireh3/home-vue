@@ -6,6 +6,13 @@
     "hoverColor": "#e78b0a"
   },
   {
+    "type": "Telegram",
+    "icon": "fas fa-envelope",
+    "url": "https://t.me/ilancet",
+    "hoverColor": "#e78b0a"
+  },
+
+  {
     "type": "Github",
     "icon": "fab fa-github",
     "url": "https://github.com/solaireh3",
@@ -23,4 +30,5 @@
     "qrCode": "fa-sharp fa-regular fa-share-nodes",
     "hoverColor": "#247700"
   }
+
 ]
