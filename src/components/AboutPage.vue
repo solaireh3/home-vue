@@ -13,7 +13,7 @@
         </div>
         <div class="github-info">
           <h3>开源地址</h3>
-          <a href="https://github.com/JLinMr/Home-Vue" target="_blank" class="github-link">
+          <a href="https://github.com/solaireh3/home-vue/" target="_blank" class="github-link">
             <i class="fab fa-github"></i> Github
           </a>
         </div>
@@ -53,7 +53,7 @@ const loading = ref(true);
 const closeModal = () => emit('close');
 const fetchCommits = async () => {
   try {
-    const response = await fetch('https://api.github.com/repos/JLinMr/Home-Vue/commits');
+    const response = await fetch('https://github.com/solaireh3/home-vue/commits');
     const commits = await response.json();
     lastUpdates.value = commits.slice(0, 3).map(commit => ({
       message: commit.commit.message,
