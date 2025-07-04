@@ -20,7 +20,7 @@
   {
     "type": "Steam",
     "icon": "fa-brands fa-steam",
-    "qrCode": "https://steamcommunity.com/id/whyplain/",
+    "url": "https://steamcommunity.com/id/whyplain",
     "hoverColor": "#007aff"
   }
 ]
