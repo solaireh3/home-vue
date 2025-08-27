@@ -4,7 +4,7 @@
 
 ### Demo
 
-- [预览](https://bsgun.cn)
+- [预览](https://home-vue-pink.vercel.app)
 
 ### 修改
 
