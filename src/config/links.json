@@ -6,12 +6,6 @@
     "hoverColor": "#e78b0a"
   },
   {
-    "type": "Telegram",
-    "icon": "fa-regular fa-comment-dots",
-    "url": "https://t.me/ilancet",
-    "hoverColor": "#e78b0a"
-  },
-  {
     "type": "Github",
     "icon": "fab fa-github",
     "url": "https://github.com/solaireh3",
