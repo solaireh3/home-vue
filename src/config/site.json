@@ -6,12 +6,12 @@
   },
   {
     "name": "图床",
-    "url": "https://img.xxxh.de",
+    "url": "https://img.nsjj.de",
     "icon": "fa fa-image"
   },
   {
     "name": "计算器",
-    "url": "https://8888878.xyz",
+    "url": "https://jsq.nsjj.de",
     "icon": "fa-solid fa-calculator"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "name": "FileCodeBox",
-    "url": "https://file.xxxh.de",
+    "url": "https://file.nsjj.de",
     "icon": "fa-solid fa-file-code"
   }
 
